@@ -10,5 +10,7 @@ public class Main
     {
         System.out.println( "VODKA!" );
         System.out.println( "PIVO!" );
+        System.out.println( "VODKA!" );
+        System.out.println( "PIVO!" );
     }
 }
